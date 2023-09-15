@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "aula": "Aula 1",
+    "tempo": "25minutos"
+  },
+  {
+    "id": 2,
+    "aula": "Aula 2",
+    "tempo": "30minutos"
+  },
+  {
+    "id": 3,
+    "aula": "Aula 3",
+    "tempo": "35minutos"
+  }
+]
